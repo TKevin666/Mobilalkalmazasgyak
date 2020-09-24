@@ -1,0 +1,2 @@
+# Mobilalkalmazasgyak
+Mobil alkalmazás gyakorlat
